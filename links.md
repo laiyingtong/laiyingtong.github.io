@@ -4,4 +4,4 @@ title: things i like
 permalink: /links/
 ---
 
-radxchangesg.github.io
+RadicalxChange Singapore: https://radxchangesg.github.io
