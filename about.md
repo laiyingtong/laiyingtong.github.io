@@ -9,6 +9,16 @@ books:
 - proust
 
 
+tv:
+
+- Daria
+
+- Serial Experiments Lain
+
+- Broad City <3
+
+- Atlanta
+
 
 films:
 
@@ -25,3 +35,7 @@ films:
 - Ghost World 
 
 - Tokyo Story
+
+- The World (Jia Zhangke)
+
+- Fish and Elephant
