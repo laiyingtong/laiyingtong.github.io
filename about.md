@@ -41,3 +41,7 @@ films:
 - The World (Jia Zhangke)
 
 - Fish and Elephant
+
+- Notebook on Cities and Clothes
+
+- Jiro Dreams of Sushi
