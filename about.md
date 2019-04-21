@@ -9,6 +9,11 @@ books:
 - proust
 
 
+articles:
+
+- imagining the internet: explaining our digital transition (Brewster Kahle) https://www.are.na/blog/reimagining-the-internet
+
+
 tv:
 
 - Daria
@@ -22,6 +27,8 @@ tv:
 - Community 
 
 - Twin Peaks
+
+- the Marnie episode of Girls
 
 
 
@@ -48,3 +55,9 @@ films:
 - Notebook on Cities and Clothes
 
 - Jiro Dreams of Sushi
+
+
+music:
+
+- Lish's "nothing to die for, nothing to rage about..."
+
